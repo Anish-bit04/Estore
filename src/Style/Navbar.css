@@ -1,0 +1,19 @@
+.Navbar{
+  display: flex;
+  list-style-type: none;
+  justify-content: right;
+  background-color: rgb(151, 180, 192);
+  margin-top: -7px;
+  margin-left: -9px;
+  margin-right: -9px;
+}
+.Nav_List{
+ height: 24px;
+}
+.Nav_Link,.Nav_CartCount{
+  margin: 10px;
+  font-size: larger;
+  font-weight: bolder ;
+  text-decoration: none;
+  color: Black;
+}

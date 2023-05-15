@@ -1,0 +1,9 @@
+/* .home_Title, .sec_Title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.sec_Title{
+    margin-bottom: 20px;
+}
