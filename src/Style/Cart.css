@@ -1,0 +1,10 @@
+.Cart{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.cartdetails{
+    margin-top: 10px;
+  
+}
