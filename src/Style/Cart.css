@@ -1,0 +1,16 @@
+/* .Cart{
+    position: absolute;
+    top: 35px;
+    left: 20px;
+} */
+
+.Cart{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.cartdetails{
+    margin-top: 10px;
+   gap: 3;
+}
