@@ -1,6 +1,8 @@
 import React from 'react'
 import { useSelector, useDispatch } from 'react-redux'
 import { remove } from '../store/cartSlice'
+import "../Style/Cart.css"
+
 const Cart = () => {
   const dispatch = useDispatch();
   const product = useSelector((state)=>state.cart);
